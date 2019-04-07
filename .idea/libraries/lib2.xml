@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MLJ-Chapter4/lib/weka.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MLJ-Chapter4/lib/ensembleLibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

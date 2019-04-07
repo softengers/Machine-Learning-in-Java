@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="myrunsdatacollector">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MLJ-Chapter9/data/myrunsdatacollector.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
